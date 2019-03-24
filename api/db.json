@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "my movie",
+      "description": "this movie is beautiful",
+      "id": 1
+    },
+    {
+      "title": "my movie ",
+      "description": "this movie is beautiful",
+      "id": 2
+    },
+    {
+      "title": "my movie ",
+      "description": "this movie is beautiful",
+      "id": 3
+    }
+  ]
+}
